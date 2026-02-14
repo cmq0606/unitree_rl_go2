@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <h1 align="center">Unitree RL GYM</h1>
   <p align="center">
@@ -198,3 +199,6 @@ This project is licensed under the [BSD 3-Clause License](./LICENSE):
 
 For details, please read the full [LICENSE file](./LICENSE).
 
+=======
+# unitree_rl_go2
+>>>>>>> cf45845a03c1d1cbdbc267f4f096005ed4d18de8
